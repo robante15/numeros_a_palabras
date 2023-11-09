@@ -1,0 +1,19 @@
+{
+  "name": "numeros_a_palabras",
+  "version": "1.0.8",
+  "description": "numeros_a_palabras es una libreria Javascript para convertir numeros a letras.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "convertir",
+    "letras",
+    "numeros",
+    "numeros a letras",
+    "convertir numeros a letras"
+  ],
+  "author": "Roberto Acevedo",
+  "license": "MIT"
+}
