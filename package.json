@@ -1,6 +1,6 @@
 {
   "name": "numeros_a_palabras",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "numeros_a_palabras es una libreria Javascript para convertir numeros a letras.",
   "main": "index.js",
   "types": "index.d.ts",
